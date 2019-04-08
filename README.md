@@ -1,4 +1,4 @@
-# Introduction to Docker and Kubernetes Hands-On Workshop
+# Introduction to Docker Hands-On Workshop
 
 ## Working Environment
 
