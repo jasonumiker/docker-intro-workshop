@@ -6,7 +6,7 @@
 We'll start by setting up a Cloud9 which is an EC2 instance accessible via a browser-based IDE and Terminal. Being backed by a dedicated Linux machine, containers run right on these Cloud9 instances when you use the docker commands.
 
 1. Sign into the AWS Console
-1. Choose the Singapore region in the upper right dropdown (Cloud9 is not yet available in Sydney)
+1. Choose the Oregon region in the upper right dropdown (Cloud9 is not yet available in Sydney)
 1. Click the `Create environment` button
 1. Name your environment after your username (e.g. user1) and click the `Next step` button
 1. Click the `Next step` button accepting the defaults
@@ -17,7 +17,7 @@ We'll start by setting up a Cloud9 which is an EC2 instance accessible via a bro
 
 ### AWS Elastic Container Registry (ECR)
 
-1. Create a new browser tab and go to `https://ap-southeast-1.console.aws.amazon.com`
+1. Create a new browser tab and go to `https://us-west-2.console.aws.amazon.com`
 1. Go to the ECR Service
 1. Click the `Get Started` button
 1. Enter `nginx` for the `Repository name` and click the `Create repository` button
